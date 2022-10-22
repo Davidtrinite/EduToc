@@ -31,13 +31,13 @@ Are they comfortable with the topic? Do they fully understand the concept? Teach
 
 ## Solutions for EdTech 
 
-1. The Lack of Professional Development 
+1. The Lack of Professional Development; 
 Offer Certifcates that users can apply to their resumes. 
-2. Many Resist Technology
+2. Many Resist Technology;
 Use a model that many users are familiar with - Short form content
-3. Failure to Engage Students in Informal Learning
+3. Failure to Engage Students in Informal Learning;
 Short-form content allows for informal learning
-4. Failure to Personalize Learning
+4. Failure to Personalize Learning;
 Use an algorithm similar to TikTok and feed users content they’re interested in learning/want to get certified for
 
 # Challenge 
