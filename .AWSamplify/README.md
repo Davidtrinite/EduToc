@@ -1,4 +1,5 @@
-# To-do
+# Technical Process
+
 
 ## Amplify Framework
 Develop moible application using amplify framework. Use components together or on their own
