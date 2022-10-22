@@ -1,5 +1,5 @@
 # MakeUC hackathon; Education Track; EduToc
-<img src= "https://github.com/Davidtrinite/EduToc/blob/39ba99d5dba6491561b5f1d309c2b4293ffdd09a/EduTok.png" width="800" />
+<img src= "https://github.com/Davidtrinite/EduToc/blob/77928f4927f71e9656656e0025150ced06db5242/Assets/Kinetic%20Vision.png" width="800" />
 ## Members:
 Dayton Nguyen - Highschool senior
 Chau Nguyen - University Freshman
