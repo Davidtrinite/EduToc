@@ -1,0 +1,42 @@
+# To-do
+
+## Amplify Framework
+Develop moible application using amplify framework. Use components together or on their own
+
+## Configure Backend
+Use the Amplifity CLI to create a new AWS backend-- 
+ 
+We have the client (EdToc) which is an app that needs to read and write videos to the server and a cdn 
+like Fastly for loading videos from cache, avoiding requests to the server when possible.  this is simplified. 
+
+The second part of the problem is presenting the videos to the user. There needs to be efficient pre-loaded the
+videos as the user scrolls that way the experience is seamless giving an impression of an endless feed of videos. 
+That's just half of the equation the other part is the recommendation engine-- an alogrithim to recomend educational 
+content based on interests but this has too many variables and would take way too much time to build out in this 
+24 hour hackathon
+
+## Connect application through Amplift console to Github repository 
+
+Use Amplify libraries to connect cloud backend to the appication -- for short from video content.
+
+## intergrate UI components 
+
+Amplify UI components  
+  
+# AWS Amplift Console
+
+Host static app on AWS
+
+## Connect the repository 
+
+Connect source code from the Git repository
+
+## Configure build settings 
+
+Confirm build setting sfor the front end and backend from the amplify console
+
+## Finally Deploy
+
+Deploy through Amplify console to a globally available content delivery network (CDN) 
+We will chose Fastly
+
