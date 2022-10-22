@@ -23,7 +23,7 @@ Use Amplify libraries to connect cloud backend to the appication -- for short fr
 
 Amplify UI components  
   
-# AWS Amplift Console (Hostinhg)
+# AWS Amplift Console (Hosting)
 
 Host static app on AWS
 
