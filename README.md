@@ -44,6 +44,9 @@ Use an algorithm similar to TikTok and feed users content they’re interested i
 # Challenge 
 Create an application that is accessible and enhance the learning experience by providing users engaging short form content that can educate.
 
+## Application 
+
+ <img src= "https://github.com/Davidtrinite/EduToc/blob/c71c82c1d55f608d1ae0c5ff317365c551bb077e/Assets/1023__1__AdobeExpress.gif" width="800" />
 # Technical feasibility
 
  <img src= "https://github.com/Davidtrinite/EduToc/blob/2cada0b3a4fa959f1d0ec1dfec75a37da13f112a/Assets/asf.png" width="800" />
