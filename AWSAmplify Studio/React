@@ -1,0 +1,88 @@
+# Unfortunaely we ran out of time But
+We used one of AWS's new features-- Amplify studio, that takes Figma designs and generates it to REACT
+
+## Here's the Code if we decide to pursue in the future
+
+set AWS_DEFAULT_REGION=us-east-2
+set AWS_ACCESS_KEY_ID=ASIAQGFKNIAYCZXYCBOU
+set AWS_SECRET_ACCESS_KEY=yyJUUWQW7CWxHmlsRN5NMBQnA8uUb5yDQBhRiCJm
+set AWS_SESSION_TOKEN=IQoJb3JpZ2luX2VjELr//////////wEaCXVzLWVhc3QtMSJIMEYCIQCd41X3LE2I92q271iLsyeTaZA/ba9XU/HUc/sN+Bh18QIhAPsEdtNbj+oXLFlxT0RLeUJrSqUbf7XNgppQS4F0+08AKqACCJP//////////wEQABoMMDEzMjQyMjg2MTI4IgyWek4Pk3LRqphbXiYq9AElMo/RTy4esdK50iC9v4PgtLITaHOG2D3jqLZp6ggj7BGu+Dy0YXeTSnz7W23Zmyk8UFEa2aAj1/y3g3d3nnXLbVntiwYYaDkfijRzYzmpDaJyfnZ3yuxHj5lLF8+kpoSHVilwyWiCKTVLNNnXmlmsiV/12Y0mmldWxTGXMkMm39iLkMwGEB47nbtR9K3mOoWsk7hRLE3lvMDJVNg0Nj7VPYByUi7ch+2Xk9oH5Hwitf8pgSTIEPauwVvnKnAJ4vFZLa9kqiOTTBOuHf3tN0f7voxPeWyBf4gkMAVeMem/wLqRa6lXEzglWr6NL5bGLQu4R8ssMNnd0JoGOpwBDm0JSXcWSZSMWRI24hKmivNKnvZpH5snzzT1TMGEMb0G0HGNwvOpehf5sN5TNdlzr5nG01p7+APbXkm+qCD4YQgat8BJos8LHkDg2ulXfWbw0fIjIet+8vCEcCxgZKdZpjonKcIMQc0CKEOp2avoTdgMQyFuxaWJ1TzJKZx84xbu5/dhFbXaV+c+2lTEW+IbocZwDL0UO9OLLdCI
+
+import { 
+  IPhone141 
+} from './ui-components';
+
+<IPhone141 />
+import { 
+  IPhone1410 
+} from './ui-components';
+
+<IPhone1410 />
+import { 
+  IPhone1412 
+} from './ui-components';
+
+<IPhone1412 />
+
+import { 
+  IPhone1413 
+} from './ui-components';
+
+<IPhone1413 />
+
+import { 
+  IPhone1414 
+} from './ui-components';
+
+<IPhone1414 />
+
+import { 
+  IPhone1415 
+} from './ui-components';
+
+<IPhone1415 />
+import { 
+  IPhone1416 
+} from './ui-components';
+
+<IPhone1416 />
+import { 
+  IPhone142 
+} from './ui-components';
+
+<IPhone142 />
+
+import { 
+  IPhone143 
+} from './ui-components';
+
+<IPhone143 />
+
+import { 
+  IPhone144 
+} from './ui-components';
+
+<IPhone144 />
+import { 
+  IPhone145 
+} from './ui-components';
+
+<IPhone145 />
+
+import { 
+  IPhone147 
+} from './ui-components';
+
+<IPhone147 />
+
+import { 
+  IPhone148 
+} from './ui-components';
+
+<IPhone148 />
+
+import { 
+  IPhone149 
+} from './ui-components';
+
+<IPhone149 />
