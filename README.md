@@ -52,4 +52,8 @@ Create an application that is accessible and enhance the learning experience by 
 
  <img src= "https://github.com/Davidtrinite/EduToc/blob/2cada0b3a4fa959f1d0ec1dfec75a37da13f112a/Assets/Screenshot%202022-10-23%20024307.png" width="800" />
 
+# Our Attempts
 
+<img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025001.png" width="800" />
+<img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025025.png" width="800" />
+<img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025012.png" width="800" />
