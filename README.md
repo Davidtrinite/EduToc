@@ -42,6 +42,14 @@ Short-form content allows for informal learning
 Use an algorithm similar to TikTok and feed users content they’re interested in learning/want to get certified for
 
 # Challenge 
-Create an application that is accessible and enhance the learning experience by providing users engaging short form content that can educate. 
+Create an application that is accessible and enhance the learning experience by providing users engaging short form content that can educate.
+
+# Technical feasibility
+
+ <img src= "https://github.com/Davidtrinite/EduToc/blob/2cada0b3a4fa959f1d0ec1dfec75a37da13f112a/Assets/asf.png" width="800" />
+
+# How we would build it
+
+ <img src= "https://github.com/Davidtrinite/EduToc/blob/2cada0b3a4fa959f1d0ec1dfec75a37da13f112a/Assets/Screenshot%202022-10-23%20024307.png" width="800" />
 
 
