@@ -44,4 +44,4 @@ Use an algorithm similar to TikTok and feed users content they’re interested i
 # Challenge 
 Create an application that is accessible and enhance the learning experience by providing users engaging short form content that can educate. 
 
-<iframe src="https://pitch.com/embed/4497c416-eba6-442d-97bd-51755243ff56" allow="fullscreen" allowfullscreen="" width="560" height="368" style="border:0"></iframe>
+
