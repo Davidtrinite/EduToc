@@ -60,3 +60,4 @@ Create an application that is accessible and enhance the learning experience by 
 <img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025001.png" width="800" />
 <img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025025.png" width="800" />
 <img src= "https://github.com/Davidtrinite/EduToc/blob/35a760b733fc37caa7d8aba7dbd0e8776c09ecf0/Assets/Screenshot%202022-10-23%20025012.png" width="800" />
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FhTLycLlfq9i2XX8MlR0VZw%2FCodeToc%3Fnode-id%3D1%253A267%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A267%26show-proto-sidebar%3D1" allowfullscreen></iframe>
